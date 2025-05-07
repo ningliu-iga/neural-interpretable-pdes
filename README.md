@@ -22,7 +22,7 @@ To run the Mechanical MNIST example in the NIPS paper
 python3 NIPS_MMNIST.py
 ```
 ## Datasets
-We provide the elasticity and airfoil datasets that are used in the paper.
+We provide the Darcy and MMNIST datasets that are used in the paper.
 
 - [Darcy and MMNIST datasets](https://drive.google.com/drive/folders/1-HA5uPMBHEH96sRcdzKaF7dyn8KQv8kG?usp=sharing)
 
