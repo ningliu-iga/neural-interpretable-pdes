@@ -27,7 +27,7 @@ We provide the Darcy and MMNIST datasets that are used in the paper.
 - [Darcy and MMNIST datasets](https://drive.google.com/drive/folders/1-HA5uPMBHEH96sRcdzKaF7dyn8KQv8kG?usp=sharing)
 
 ## Citation
-
+Neural Interpretable PDEs are an enhanced version of [Nonlocal Attention Operator (NAO)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ce5b4f79f4752b7f8e983a80ebcd9c7a-Abstract-Conference.html), with learnable Fourier kernel and linear attention. If you find our models useful, please consider citing our papers:
 ```
 @inproceedings{liu2025nips,
   title={Neural Interpretable PDEs: Harmonizing Fourier Insights with Attention for Scalable and Interpretable Physics Discovery},
