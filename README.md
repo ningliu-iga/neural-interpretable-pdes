@@ -1,6 +1,6 @@
 # Neural Interpretable PDEs (NIPS)
 
-![NIPS architecture.](https://github.com/ningliu-iga/neural-interpretable-pdes/blob/main/NIPS_architecture.png)
+![NIPS architecture.](https://github.com/ningliu-iga/neural-interpretable-pdes/blob/main/nips.png)
 
 This repository houses the code for our ICML 2025 paper:
 - Ning Liu, Yue Yu. "[Neural Interpretable PDEs: Harmonizing Fourier Insights with Attention for Scalable and Interpretable Physics Discovery](https://arxiv.org/abs/2505.23106)".
